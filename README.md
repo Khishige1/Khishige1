@@ -21,7 +21,7 @@
 ### 👨‍💻: About Me :
 A software engineer with a strong background in frontend development.
 
-- :telescope: Studying at Mongolian University of Science and Technology.
+- :telescope: Studies at Mongolian University of Science and Technology.
 
 - :book: Studied at Pinecone academy.
 
