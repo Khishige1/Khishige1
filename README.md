@@ -28,4 +28,4 @@ A software engineer with a strong background in frontend development.
 ---
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tseku210&theme=dark)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tseku210&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khishige1&theme=dark)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khishige1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
