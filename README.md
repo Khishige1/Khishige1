@@ -20,9 +20,10 @@
 
 ### 👨‍💻: About Me :
 A software engineer with a strong background in frontend development.
-- :telescope: Studying at a science and technology school.
 
-- :book: Studied Pinecone academy
+- :telescope: Studying at Mongolian University of Science and Technology.
+
+- :book: Studied at Pinecone academy.
 
 - :zap: Currently working at a startup company.
 
