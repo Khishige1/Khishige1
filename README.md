@@ -11,9 +11,9 @@
       <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Tseku210">
+  <img src="https://komarev.com/ghpvc/?username=Khishige1">
   <h1>
-    Welcome my git
+    Welcome to my git
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
 </div>
